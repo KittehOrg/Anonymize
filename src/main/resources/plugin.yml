@@ -1,0 +1,4 @@
+name: Anonymize
+main: org.kitteh.anonymize.Anonymize
+author: mbaxter
+version: '${project.version}'
